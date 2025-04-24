@@ -41,7 +41,7 @@ The goal is to enhance cybersecurity by identifying intrusions through intellige
 
 - Model deployed using **Azure Web App Services**  
 - Source code and version control managed via **GitHub**
-🔗 [Live Demo]([https://your-app-name.azurewebsites.net](https://team6-bvbyh6fnehded7gp.centralus-01.azurewebsites.net/))
+🔗 [Live Demo](https://team6-bvbyh6fnehded7gp.centralus-01.azurewebsites.net/)
 
 ## 🧠 Future Enhancements
 
